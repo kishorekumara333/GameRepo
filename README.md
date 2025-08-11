@@ -1,1 +1,5 @@
 # GameRepo
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
